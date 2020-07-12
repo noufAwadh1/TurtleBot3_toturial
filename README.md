@@ -1,4 +1,4 @@
-#TurtleBot3 Installation
+# TurtleBot3 Installation
 this tutorial for install Turtlebot package and Gazebo simulation.
 # Installing Dependent Packages
 Open yor cmd and write the following  commands
@@ -13,7 +13,7 @@ Open yor cmd and write the following  commands
    //////
  reload the bashrc file by this command
  * `source ~/.bashrc`
- #TurtuleBot simulation installing
+ # TurtuleBot simulation installing
  * `cd ~/catkin_ws/src/`
  * `git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git`
  * `cd ~/catkin_ws && catkin_make`
@@ -24,7 +24,7 @@ Open yor cmd and write the following  commands
   	/////
  
  
-#The Result
+# The Result
 * after you followed the previous steps the Gazebo simulatore will open as the image 
        ///
         
