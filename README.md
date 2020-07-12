@@ -6,7 +6,8 @@ Open yor cmd and write the following  commands
 * `git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git`
 * `git clone https://github.com/ROBOTIS-GIT/turtlebot3.git`
 * `cd ~/catkin_ws && catkin_make`
- there are three models of TurtleBot3 Burger, Waffle and WaffelPi.
+
+ There are three models of TurtleBot3 Burger, Waffle and WaffelPi.
 ![TurtleBotModels](https://user-images.githubusercontent.com/50454895/87253120-42dfa600-c481-11ea-899d-325cdfbff197.jpeg)
 
  To add your model write the following command to open the bashrc file 
