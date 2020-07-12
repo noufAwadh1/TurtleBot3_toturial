@@ -1,7 +1,7 @@
 # TurtleBot3 Installation
 This tutorial for install Turtlebot3 package and Gazebo simulation.
 # ROS Version
-* noetic
+* Noetic
 # Installing Dependent Packages
 Open yor cmd and write the following  commands
 * `cd ~/catkin_ws/src/`
