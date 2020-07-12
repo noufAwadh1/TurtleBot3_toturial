@@ -15,10 +15,12 @@ Open yor cmd and write the following  commands
 
  To add your model write the following command to open the bashrc file 
  * `gedit ~/.bashrc`
+ 
  scrole down to bottom of the file and write the follwing line as you see in the image, then save and close the file
+ 
  * `export TURTLEBOT3_MODEL=burger`
     ![bashrcFile](https://user-images.githubusercontent.com/50454895/87253114-3bb89800-c481-11ea-8784-699f27eb388d.png)
- reload the bashrc file by this command
+ Reload the bashrc file by this command
  * `source ~/.bashrc`
  # TurtuleBot3 simulation installing
  * `cd ~/catkin_ws/src/`
