@@ -26,8 +26,10 @@ Open yor cmd and write the following  commands
  * `cd ~/catkin_ws && catkin_make`
  to start simulation Turtlebote3 in an empty enviroment write this command
  * `roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch`
+ 
  if you face the follwing problem in image, navigate the directory to devel file `cd ~ /catkin_ws/devel`  and write the following command
- * `source setup.bash` and rewrite the previous command to start simulation
+ 
+ * `source setup.bash` and then rewrite the previous command to start simulation
   	
 ![launch](https://user-images.githubusercontent.com/50454895/87253119-407d4c00-c481-11ea-8b60-7071e4987609.png)
  
