@@ -1,5 +1,5 @@
 # TurtleBot3 Installation
-This tutorial for install Turtlebot3 package and Gazebo simulation.
+This tutorial is for install Turtlebot3 package and Gazebo simulation.
 # ROS Version
 * Noetic
 # Installing Dependent Packages
