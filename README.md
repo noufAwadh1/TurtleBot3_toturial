@@ -20,7 +20,7 @@ Open yor cmd and write the following  commands
     ![bashrcFile](https://user-images.githubusercontent.com/50454895/87253114-3bb89800-c481-11ea-8784-699f27eb388d.png)
  reload the bashrc file by this command
  * `source ~/.bashrc`
- # TurtuleBot simulation installing
+ # TurtuleBot3 simulation installing
  * `cd ~/catkin_ws/src/`
  * `git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git`
  * `cd ~/catkin_ws && catkin_make`
